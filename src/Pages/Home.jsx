@@ -227,7 +227,7 @@ const Home = () => {
                   data-aos="fade-up"
                   data-aos-delay="1000"
                 >
-                  Innovative and detail-oriented Software developer with 2+
+                  Innovative and detail-oriented Software developer with 3+
                   years of professional experience. Skilled in front-end,
                   back-end, and full-stack solutions using MERN.
                 </p>

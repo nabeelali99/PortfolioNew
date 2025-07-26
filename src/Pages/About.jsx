@@ -142,7 +142,7 @@ const AboutPage = () => {
     //     ? 1
     //     : 0);
 
-    const experience = "2+";
+    const experience = "3+";
 
     return {
       totalProjects: storedProjects.length,
