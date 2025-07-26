@@ -238,7 +238,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              A passionate and innovative Full Stack Developer with 2+ years of
+              A passionate and innovative Full Stack Developer with 3+ years of
               professional experience. I specialize in creating responsive and
               user-focused applications using MERN stack. My skills span
               front-end technologies like React.js, Material UI, and Redux, as
@@ -252,7 +252,7 @@ const AboutPage = () => {
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
               <a
-                href="https://drive.google.com/file/d/1iDyFL5H-ACz3QHeoq4daV1yqdHZfxCxD/view?usp=sharing"
+                href="https://drive.google.com/file/d/1qi2ZuQ4zJncbyEYO66Kbl3bB9bKQWjPf/view?usp=sharing"
                 className="w-full lg:w-auto"
               >
                 <button
